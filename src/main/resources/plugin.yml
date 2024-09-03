@@ -1,0 +1,4 @@
+name: LootMoney
+version: '${project.version}'
+main: dev.mcloudtw.lm.Main
+api-version: '1.20'
